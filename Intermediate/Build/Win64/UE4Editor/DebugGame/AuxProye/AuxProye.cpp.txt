@@ -1,0 +1,2 @@
+D:\Game\AuxProye\Intermediate\Build\Win64\UE4Editor\DebugGame\AuxProye\Definitions.AuxProye.h
+D:\Game\AuxProye\Source\AuxProye\AuxProye.h

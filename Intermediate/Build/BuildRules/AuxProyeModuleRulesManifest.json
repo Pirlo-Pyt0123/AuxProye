@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Game\\AuxProye\\Source\\AuxProye\\AuxProye.Build.cs",
+		"D:\\Game\\AuxProye\\Source\\AuxProye.Target.cs",
+		"D:\\Game\\AuxProye\\Source\\AuxProyeEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

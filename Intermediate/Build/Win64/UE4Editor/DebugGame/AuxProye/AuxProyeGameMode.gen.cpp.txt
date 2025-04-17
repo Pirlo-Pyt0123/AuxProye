@@ -1,0 +1,9 @@
+D:\Game\AuxProye\Intermediate\Build\Win64\UE4Editor\DebugGame\AuxProye\Definitions.AuxProye.h
+D:\juegazo\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\juegazo\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Game\AuxProye\Source\AuxProye/AuxProyeGameMode.h
+D:\juegazo\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\juegazo\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\juegazo\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\juegazo\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\Game\AuxProye\Intermediate\Build\Win64\UE4Editor\Inc\AuxProye\AuxProyeGameMode.generated.h

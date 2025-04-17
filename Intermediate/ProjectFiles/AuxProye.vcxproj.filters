@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\AuxProye.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{4F31E54E-1741-4231-8749-D04EA529BC46}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AuxProye.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\AuxProyeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{0C14B0C1-C475-495D-A92C-7B13F4529AF1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\AuxProye">
+      <UniqueIdentifier>{8E24FEA7-995D-4A7C-8CCA-F1C08CF66AB9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AuxProye\AuxProye.Build.cs">
+      <Filter>Source\AuxProye</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\AuxProye\AuxProye.cpp">
+      <Filter>Source\AuxProye</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AuxProye\AuxProye.h">
+      <Filter>Source\AuxProye</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AuxProye\AuxProyeGameMode.cpp">
+      <Filter>Source\AuxProye</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AuxProye\AuxProyeGameMode.h">
+      <Filter>Source\AuxProye</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AuxProye\AuxProyePawn.cpp">
+      <Filter>Source\AuxProye</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AuxProye\AuxProyePawn.h">
+      <Filter>Source\AuxProye</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AuxProye\AuxProyeProjectile.cpp">
+      <Filter>Source\AuxProye</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AuxProye\AuxProyeProjectile.h">
+      <Filter>Source\AuxProye</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
