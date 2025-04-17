@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\AuxProye.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{4F31E54E-1741-4231-8749-D04EA529BC46}</UniqueIdentifier>
+      <UniqueIdentifier>{1F5706E2-45B6-41F9-8D4E-85E5DC5DAFC4}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\AuxProye.Target.cs">
       <Filter>Source</Filter>
@@ -11,8 +11,10 @@
     <None Include="..\..\Source\AuxProyeEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
     <Filter Include="Config">
-      <UniqueIdentifier>{0C14B0C1-C475-495D-A92C-7B13F4529AF1}</UniqueIdentifier>
+      <UniqueIdentifier>{65F10DFF-4798-4DCE-83CD-013E8713852C}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +32,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\AuxProye">
-      <UniqueIdentifier>{8E24FEA7-995D-4A7C-8CCA-F1C08CF66AB9}</UniqueIdentifier>
+      <UniqueIdentifier>{26758F2A-DE09-4A0D-99E0-CE5C5EEB5DB4}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\AuxProye\AuxProye.Build.cs">
       <Filter>Source\AuxProye</Filter>
@@ -57,6 +59,24 @@
       <Filter>Source\AuxProye</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\AuxProye\AuxProyeProjectile.h">
+      <Filter>Source\AuxProye</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AuxProye\Human.cpp">
+      <Filter>Source\AuxProye</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AuxProye\Human.h">
+      <Filter>Source\AuxProye</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AuxProye\ViajeroCuadrante.cpp">
+      <Filter>Source\AuxProye</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AuxProye\ViajeroCuadrante.h">
+      <Filter>Source\AuxProye</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AuxProye\ViajeroErrante.cpp">
+      <Filter>Source\AuxProye</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AuxProye\ViajeroErrante.h">
       <Filter>Source\AuxProye</Filter>
     </ClInclude>
   </ItemGroup>

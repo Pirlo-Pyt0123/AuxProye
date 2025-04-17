@@ -1,0 +1,7 @@
+D:\Game\AuxProye\Intermediate\Build\Win64\UE4Editor\Development\AuxProye\Definitions.AuxProye.h
+D:\juegazo\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\juegazo\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Game\AuxProye\Source\AuxProye/ViajeroCuadrante.h
+D:\Game\AuxProye\Source\AuxProye\Human.h
+D:\Game\AuxProye\Intermediate\Build\Win64\UE4Editor\Inc\AuxProye\Human.generated.h
+D:\Game\AuxProye\Intermediate\Build\Win64\UE4Editor\Inc\AuxProye\ViajeroCuadrante.generated.h
