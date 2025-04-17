@@ -72,7 +72,7 @@ void EmptyLinkFunctionForGeneratedCodeViajeroCuadrante() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AViajeroCuadrante, 1552264955);
+	IMPLEMENT_CLASS(AViajeroCuadrante, 1156817694);
 	template<> AUXPROYE_API UClass* StaticClass<AViajeroCuadrante>()
 	{
 		return AViajeroCuadrante::StaticClass();

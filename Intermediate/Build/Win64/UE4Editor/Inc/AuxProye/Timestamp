@@ -1,6 +1,10 @@
 D:\Game\AuxProye\Source\AuxProye\AuxProyeGameMode.h
-D:\Game\AuxProye\Source\AuxProye\AuxProyePawn.h
 D:\Game\AuxProye\Source\AuxProye\AuxProyeProjectile.h
+D:\Game\AuxProye\Source\AuxProye\EstadoFrenetico.h
 D:\Game\AuxProye\Source\AuxProye\Human.h
-D:\Game\AuxProye\Source\AuxProye\ViajeroErrante.h
 D:\Game\AuxProye\Source\AuxProye\ViajeroCuadrante.h
+D:\Game\AuxProye\Source\AuxProye\AuxProyePawn.h
+D:\Game\AuxProye\Source\AuxProye\ViajeroErrante.h
+D:\Game\AuxProye\Source\AuxProye\Estado.h
+D:\Game\AuxProye\Source\AuxProye\EstadoPatrullando.h
+D:\Game\AuxProye\Source\AuxProye\EstadoDormido.h

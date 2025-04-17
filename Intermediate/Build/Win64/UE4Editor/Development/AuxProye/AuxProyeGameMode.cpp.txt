@@ -13,3 +13,9 @@ D:\juegazo\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotion
 D:\juegazo\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
 D:\juegazo\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
 D:\Game\AuxProye\Intermediate\Build\Win64\UE4Editor\Inc\AuxProye\AuxProyePawn.generated.h
+D:\Game\AuxProye\Source\AuxProye\Human.h
+D:\Game\AuxProye\Intermediate\Build\Win64\UE4Editor\Inc\AuxProye\Human.generated.h
+D:\Game\AuxProye\Source\AuxProye\ViajeroErrante.h
+D:\Game\AuxProye\Intermediate\Build\Win64\UE4Editor\Inc\AuxProye\ViajeroErrante.generated.h
+D:\Game\AuxProye\Source\AuxProye\ViajeroCuadrante.h
+D:\Game\AuxProye\Intermediate\Build\Win64\UE4Editor\Inc\AuxProye\ViajeroCuadrante.generated.h

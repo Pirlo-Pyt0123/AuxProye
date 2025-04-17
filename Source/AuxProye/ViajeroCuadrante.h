@@ -13,5 +13,20 @@ UCLASS()
 class AUXPROYE_API AViajeroCuadrante : public AHuman
 {
 	GENERATED_BODY()
+
+public:
+
+	AViajeroCuadrante();
+
+	virtual void BeginPlay() override;
+
+
+	//movimiento diferencial  
+	virtual void Movimiento(float DeltaTime) override;
+
+
+private:
+	FVector DireccionActual;
+	float TiempoRestante;
 	
 };

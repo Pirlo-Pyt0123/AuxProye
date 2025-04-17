@@ -1,0 +1,5 @@
+D:\Game\AuxProye\Intermediate\Build\Win64\UE4Editor\Development\AuxProye\Definitions.AuxProye.h
+D:\juegazo\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\juegazo\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Game\AuxProye\Source\AuxProye/EstadoDormido.h
+D:\Game\AuxProye\Intermediate\Build\Win64\UE4Editor\Inc\AuxProye\EstadoDormido.generated.h

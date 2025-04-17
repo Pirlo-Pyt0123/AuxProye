@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\AuxProye.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{1F5706E2-45B6-41F9-8D4E-85E5DC5DAFC4}</UniqueIdentifier>
+      <UniqueIdentifier>{F2971D1D-93F6-48C1-A6A6-EE651575B0E9}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\AuxProye.Target.cs">
       <Filter>Source</Filter>
@@ -14,7 +14,7 @@
     <None Include="..\..\.gitattributes" />
     <None Include="..\..\.gitignore" />
     <Filter Include="Config">
-      <UniqueIdentifier>{65F10DFF-4798-4DCE-83CD-013E8713852C}</UniqueIdentifier>
+      <UniqueIdentifier>{25FAE6F7-8AAA-41E9-9EF1-30B42EEA717D}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -32,7 +32,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\AuxProye">
-      <UniqueIdentifier>{26758F2A-DE09-4A0D-99E0-CE5C5EEB5DB4}</UniqueIdentifier>
+      <UniqueIdentifier>{6D86F32B-011A-4906-933B-BE0F2A14B811}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\AuxProye\AuxProye.Build.cs">
       <Filter>Source\AuxProye</Filter>
@@ -59,6 +59,30 @@
       <Filter>Source\AuxProye</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\AuxProye\AuxProyeProjectile.h">
+      <Filter>Source\AuxProye</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AuxProye\Estado.cpp">
+      <Filter>Source\AuxProye</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AuxProye\Estado.h">
+      <Filter>Source\AuxProye</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AuxProye\EstadoDormido.cpp">
+      <Filter>Source\AuxProye</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AuxProye\EstadoDormido.h">
+      <Filter>Source\AuxProye</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AuxProye\EstadoFrenetico.cpp">
+      <Filter>Source\AuxProye</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AuxProye\EstadoFrenetico.h">
+      <Filter>Source\AuxProye</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AuxProye\EstadoPatrullando.cpp">
+      <Filter>Source\AuxProye</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AuxProye\EstadoPatrullando.h">
       <Filter>Source\AuxProye</Filter>
     </ClInclude>
     <ClCompile Include="..\..\Source\AuxProye\Human.cpp">

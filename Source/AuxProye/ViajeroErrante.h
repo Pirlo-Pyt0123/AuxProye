@@ -13,5 +13,22 @@ UCLASS()
 class AUXPROYE_API AViajeroErrante : public AHuman
 {
 	GENERATED_BODY()
-	
+
+public:
+
+	AViajeroErrante();
+
+
+
+	//movimiento circular
+	virtual void Movimiento(float DeltaTime) override;
+
+	virtual void BeginPlay() override;
+
+
+private:
+	FVector Centro;
+	float Radio;
+	float VelocidadAngular;
+	float Angulo;
 };

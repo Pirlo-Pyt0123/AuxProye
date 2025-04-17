@@ -6,6 +6,8 @@
 #include "GameFramework/GameModeBase.h"
 #include "AuxProyeGameMode.generated.h"
 
+class AViajeroErrante;
+class AViajeroCuadrante;
 UCLASS(MinimalAPI)
 class AAuxProyeGameMode : public AGameModeBase
 {
@@ -13,6 +15,15 @@ class AAuxProyeGameMode : public AGameModeBase
 
 public:
 	AAuxProyeGameMode();
+
+ 
+	virtual void BeginPlay() override;
+
+	virtual void Tick(float DeltaTime) override;
+
+	//punteros a las clases
+	AViajeroCuadrante* ViajeroCuadrante;
+	AViajeroErrante* ViajeroErrante;
 };
 
 

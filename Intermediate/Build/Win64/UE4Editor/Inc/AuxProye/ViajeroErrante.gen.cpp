@@ -72,7 +72,7 @@ void EmptyLinkFunctionForGeneratedCodeViajeroErrante() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AViajeroErrante, 1611984256);
+	IMPLEMENT_CLASS(AViajeroErrante, 52164130);
 	template<> AUXPROYE_API UClass* StaticClass<AViajeroErrante>()
 	{
 		return AViajeroErrante::StaticClass();
